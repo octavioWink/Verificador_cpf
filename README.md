@@ -1,2 +1,3 @@
-# Verificador_cpf
-Verifica se o cpf esta certo ou nao!!
+# VERIFICADOR DE CPF EM |JAVA|
+
+Verifica se o cpf esta correto ou nao !!!
